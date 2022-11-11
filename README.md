@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ohyeahfaiza
+- 👋 Hi, I’m @zeve indian
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I’m currently learning basic computer science engineering
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborate on projects related to basically anything 
 - 📫 How to reach me faiza76anjum@gmail.com
 
 <!---
